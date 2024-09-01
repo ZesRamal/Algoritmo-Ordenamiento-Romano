@@ -3,7 +3,7 @@
 Este programa Python se especializa en ordenar listas de palabras basadas en el valor numérico romano que se encuentra dentro de cada palabra. Utiliza un algoritmo personalizado para calcular el valor romano de cada palabra y luego ordena las palabras de menor a mayor valor.
 
 ## ¿Cómo Instalar y Correr el Programa?
-- Se necesita tener instalado Python versión 3.12.2 (puede funcionar con otras pero con esta se realizó).
+- Se necesita tener instalado Python versión 3.12.2 (puede funcionar con otras versiones pero con esta se realizó).
 - Para clonar el proyecto abre una terminal en la ubicación deseada y escribe el comando (Debes de tener git instalado para realizar esta acción):
 
 ```bash
